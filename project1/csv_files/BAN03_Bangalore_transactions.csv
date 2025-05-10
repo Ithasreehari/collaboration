@@ -1,0 +1,101 @@
+transaction_id,date,time,branch_id,branch_city,customer_id,customer_name,account_number,account_type,transaction_mode,channel,location,status
+T258669,2025-04-28,14:58,BAN03,Bangalore,9273,Helen,A76665528,Savings,Online,NetBanking,OnlinePortal,Success
+T164098,2025-04-28,06:20,BAN03,Bangalore,8326,Alice,A49573309,Current,Online,UPI,ATM Booth,Failed
+T326014,2025-04-28,08:59,BAN03,Bangalore,8644,Grace,A55737056,Savings,Offline,NEFT,ATM Booth,Success
+T266538,2025-04-28,04:15,BAN03,Bangalore,6008,Ivy,A12377238,Savings,Offline,ATM,Branch,Failed
+T576656,2025-04-28,11:12,BAN03,Bangalore,1090,Alice,A42340084,Current,Offline,IMPS,Kiosk,Failed
+T343984,2025-04-28,08:57,BAN03,Bangalore,1081,Helen,A86634390,Savings,Online,NetBanking,Branch,Failed
+T238987,2025-04-28,19:12,BAN03,Bangalore,5763,Helen,A43959200,Current,Online,UPI,Branch,Success
+T925865,2025-04-28,18:25,BAN03,Bangalore,5991,David,A71242888,Current,Online,NetBanking,ATM Booth,Failed
+T757441,2025-04-28,20:45,BAN03,Bangalore,3772,David,A48384744,Savings,Offline,NEFT,Kiosk,Failed
+T942183,2025-04-28,07:05,BAN03,Bangalore,9822,David,A79615508,Current,Offline,NEFT,Kiosk,Failed
+T194767,2025-04-29,22:27,BAN03,Bangalore,9500,Grace,A78612468,Current,Offline,ATM,Branch,Success
+T708386,2025-04-29,14:23,BAN03,Bangalore,5572,David,A30406082,Savings,Offline,NEFT,MobileApp,Success
+T313847,2025-04-29,12:38,BAN03,Bangalore,5780,Bob,A72182002,Current,Online,IMPS,MobileApp,Failed
+T246211,2025-04-29,01:55,BAN03,Bangalore,5949,Bob,A42522497,Current,Online,NetBanking,OnlinePortal,Failed
+T740243,2025-04-29,21:42,BAN03,Bangalore,6351,Bob,A28959067,Current,Online,IMPS,ATM Booth,Success
+T267619,2025-04-29,07:48,BAN03,Bangalore,1642,Ivy,A95512062,Current,Offline,IMPS,MobileApp,Success
+T751392,2025-04-29,19:48,BAN03,Bangalore,3546,Bob,A68238923,Savings,Offline,NEFT,OnlinePortal,Success
+T749872,2025-04-29,05:36,BAN03,Bangalore,6818,Alice,A33093561,Savings,Offline,NEFT,OnlinePortal,Failed
+T258339,2025-04-29,12:21,BAN03,Bangalore,5743,Ivy,A95740001,Savings,Online,NEFT,ATM Booth,Failed
+T703935,2025-04-29,17:08,BAN03,Bangalore,1175,Charlie,A27772123,Current,Online,NetBanking,Kiosk,Failed
+T641122,2025-04-30,20:54,BAN03,Bangalore,1305,Bob,A57512255,Current,Offline,ATM,ATM Booth,Success
+T296107,2025-04-30,12:50,BAN03,Bangalore,3364,Grace,A57489783,Current,Online,ATM,OnlinePortal,Failed
+T505365,2025-04-30,02:27,BAN03,Bangalore,5800,Charlie,A24915139,Savings,Online,UPI,OnlinePortal,Success
+T849941,2025-04-30,12:37,BAN03,Bangalore,6580,John,A96012626,Current,Online,NEFT,MobileApp,Failed
+T642901,2025-04-30,01:43,BAN03,Bangalore,3097,Helen,A47684681,Current,Online,UPI,MobileApp,Success
+T458443,2025-04-30,09:40,BAN03,Bangalore,3484,Grace,A62757028,Savings,Offline,IMPS,Kiosk,Success
+T594813,2025-04-30,13:03,BAN03,Bangalore,1136,Bob,A39504578,Current,Offline,ATM,MobileApp,Failed
+T750584,2025-04-30,10:50,BAN03,Bangalore,2677,Eva,A58755362,Current,Online,IMPS,MobileApp,Failed
+T763076,2025-04-30,05:45,BAN03,Bangalore,5867,Bob,A73467320,Current,Online,NEFT,Branch,Failed
+T198356,2025-04-30,19:02,BAN03,Bangalore,8591,Bob,A21735913,Savings,Offline,NetBanking,ATM Booth,Failed
+T183179,2025-05-01,02:50,BAN03,Bangalore,1562,Eva,A73713300,Current,Offline,ATM,ATM Booth,Failed
+T309967,2025-05-01,13:49,BAN03,Bangalore,9976,Helen,A35170824,Current,Online,NEFT,Branch,Failed
+T648260,2025-05-01,22:00,BAN03,Bangalore,3986,Charlie,A51284432,Current,Online,UPI,MobileApp,Success
+T588725,2025-05-01,00:39,BAN03,Bangalore,1363,Helen,A50378050,Current,Online,NetBanking,OnlinePortal,Success
+T912417,2025-05-01,19:49,BAN03,Bangalore,2744,Charlie,A55343460,Savings,Offline,UPI,Branch,Failed
+T784995,2025-05-01,14:30,BAN03,Bangalore,9404,John,A91038654,Savings,Offline,NetBanking,Kiosk,Success
+T101734,2025-05-01,03:09,BAN03,Bangalore,4255,Grace,A68994163,Current,Offline,ATM,ATM Booth,Success
+T691659,2025-05-01,01:14,BAN03,Bangalore,2168,Frank,A57609365,Current,Offline,IMPS,ATM Booth,Success
+T339773,2025-05-01,10:26,BAN03,Bangalore,8715,David,A17685662,Current,Online,NEFT,OnlinePortal,Failed
+T642614,2025-05-01,07:18,BAN03,Bangalore,1271,David,A80938330,Savings,Offline,NEFT,ATM Booth,Success
+T948424,2025-05-02,18:35,BAN03,Bangalore,6612,Ivy,A77689076,Savings,Offline,NetBanking,MobileApp,Failed
+T574232,2025-05-02,22:37,BAN03,Bangalore,1382,Bob,A55466777,Current,Online,NetBanking,Branch,Failed
+T945265,2025-05-02,19:24,BAN03,Bangalore,8463,Grace,A77858777,Current,Offline,NEFT,OnlinePortal,Failed
+T590015,2025-05-02,05:49,BAN03,Bangalore,4761,John,A76283723,Current,Online,IMPS,MobileApp,Failed
+T672709,2025-05-02,04:54,BAN03,Bangalore,7984,John,A31366341,Savings,Online,NetBanking,Kiosk,Success
+T779567,2025-05-02,03:02,BAN03,Bangalore,7730,Bob,A44294208,Savings,Online,IMPS,Kiosk,Failed
+T986437,2025-05-02,09:09,BAN03,Bangalore,6954,David,A96158587,Current,Online,NetBanking,OnlinePortal,Failed
+T942676,2025-05-02,14:53,BAN03,Bangalore,3459,John,A49394095,Current,Offline,ATM,MobileApp,Success
+T772711,2025-05-02,18:42,BAN03,Bangalore,7821,David,A23724424,Savings,Offline,NetBanking,ATM Booth,Failed
+T853330,2025-05-02,05:43,BAN03,Bangalore,2251,Helen,A33967480,Current,Offline,NEFT,ATM Booth,Success
+T319113,2025-05-03,11:16,BAN03,Bangalore,6227,John,A72267284,Current,Offline,UPI,MobileApp,Failed
+T567715,2025-05-03,23:29,BAN03,Bangalore,1030,David,A92762386,Savings,Online,IMPS,OnlinePortal,Success
+T116067,2025-05-03,12:19,BAN03,Bangalore,9470,Charlie,A31862493,Current,Online,ATM,Kiosk,Success
+T229503,2025-05-03,06:14,BAN03,Bangalore,7182,Ivy,A81315255,Savings,Offline,IMPS,ATM Booth,Success
+T276352,2025-05-03,11:21,BAN03,Bangalore,8560,David,A22327444,Current,Offline,ATM,Kiosk,Success
+T321230,2025-05-03,00:00,BAN03,Bangalore,5594,Charlie,A55910524,Savings,Offline,NEFT,ATM Booth,Failed
+T932513,2025-05-03,03:06,BAN03,Bangalore,4649,Helen,A56242988,Savings,Online,IMPS,Branch,Failed
+T670036,2025-05-03,22:08,BAN03,Bangalore,1540,John,A21600201,Savings,Online,IMPS,Branch,Success
+T423133,2025-05-03,21:46,BAN03,Bangalore,3619,John,A29300417,Savings,Offline,ATM,Kiosk,Success
+T532344,2025-05-03,02:07,BAN03,Bangalore,1595,Eva,A16111442,Savings,Offline,NetBanking,MobileApp,Failed
+T566598,2025-05-04,22:44,BAN03,Bangalore,5273,Ivy,A24157198,Current,Online,NetBanking,OnlinePortal,Success
+T212509,2025-05-04,21:22,BAN03,Bangalore,3506,David,A22539204,Current,Offline,ATM,Kiosk,Success
+T532582,2025-05-04,19:38,BAN03,Bangalore,1810,Ivy,A98574935,Savings,Offline,IMPS,ATM Booth,Failed
+T483034,2025-05-04,15:15,BAN03,Bangalore,4463,Bob,A38735886,Current,Offline,UPI,MobileApp,Failed
+T298602,2025-05-04,07:49,BAN03,Bangalore,5849,Charlie,A45603412,Savings,Offline,UPI,ATM Booth,Success
+T598589,2025-05-04,01:38,BAN03,Bangalore,9400,Alice,A61548848,Savings,Offline,IMPS,MobileApp,Success
+T954475,2025-05-04,04:25,BAN03,Bangalore,3433,Frank,A93974841,Savings,Offline,NEFT,ATM Booth,Success
+T568213,2025-05-04,08:20,BAN03,Bangalore,4103,Alice,A28387375,Savings,Offline,NEFT,OnlinePortal,Failed
+T765202,2025-05-04,18:40,BAN03,Bangalore,3775,Grace,A85006252,Current,Offline,NetBanking,Branch,Success
+T277549,2025-05-04,09:04,BAN03,Bangalore,3985,David,A22095007,Current,Offline,UPI,Branch,Success
+T374344,2025-05-05,10:00,BAN03,Bangalore,3180,Ivy,A30423890,Savings,Online,ATM,ATM Booth,Success
+T431330,2025-05-05,23:55,BAN03,Bangalore,2499,David,A46222740,Current,Offline,NEFT,OnlinePortal,Failed
+T596913,2025-05-05,00:57,BAN03,Bangalore,3244,Helen,A71800230,Current,Online,ATM,Kiosk,Failed
+T885209,2025-05-05,22:59,BAN03,Bangalore,7546,Ivy,A48104652,Current,Offline,ATM,Branch,Success
+T304800,2025-05-05,11:47,BAN03,Bangalore,1061,Eva,A92084419,Savings,Online,IMPS,OnlinePortal,Success
+T459361,2025-05-05,22:35,BAN03,Bangalore,3264,Grace,A97343339,Current,Offline,UPI,ATM Booth,Failed
+T283180,2025-05-05,07:42,BAN03,Bangalore,2393,Grace,A20867801,Current,Online,IMPS,Branch,Failed
+T655779,2025-05-05,12:49,BAN03,Bangalore,5449,David,A19911621,Current,Offline,NetBanking,MobileApp,Success
+T154956,2025-05-05,13:58,BAN03,Bangalore,3320,David,A46763472,Savings,Online,ATM,MobileApp,Failed
+T472404,2025-05-05,14:46,BAN03,Bangalore,2230,John,A43202938,Savings,Offline,ATM,Branch,Failed
+T837709,2025-05-06,17:47,BAN03,Bangalore,6455,Charlie,A87701632,Current,Online,ATM,Kiosk,Failed
+T685673,2025-05-06,12:24,BAN03,Bangalore,1130,John,A38523252,Savings,Online,NetBanking,Kiosk,Success
+T454865,2025-05-06,21:16,BAN03,Bangalore,8556,Frank,A81335559,Current,Online,IMPS,ATM Booth,Failed
+T429282,2025-05-06,14:03,BAN03,Bangalore,4676,Helen,A75328478,Savings,Online,NetBanking,MobileApp,Failed
+T750901,2025-05-06,02:05,BAN03,Bangalore,3507,Alice,A59788798,Savings,Online,NEFT,OnlinePortal,Failed
+T693355,2025-05-06,00:38,BAN03,Bangalore,6254,Bob,A54513715,Savings,Online,IMPS,OnlinePortal,Failed
+T441686,2025-05-06,19:04,BAN03,Bangalore,6414,Alice,A28103256,Current,Online,NEFT,ATM Booth,Failed
+T948811,2025-05-06,21:15,BAN03,Bangalore,2808,David,A59573708,Savings,Offline,ATM,ATM Booth,Success
+T131411,2025-05-06,09:18,BAN03,Bangalore,9415,Eva,A52078314,Current,Online,NetBanking,ATM Booth,Failed
+T362678,2025-05-06,19:50,BAN03,Bangalore,5251,Charlie,A81159934,Savings,Online,NEFT,ATM Booth,Success
+T699529,2025-05-07,04:33,BAN03,Bangalore,5465,Charlie,A86225466,Current,Offline,IMPS,Branch,Success
+T687797,2025-05-07,01:28,BAN03,Bangalore,1212,David,A67717592,Current,Offline,ATM,Branch,Failed
+T416775,2025-05-07,06:19,BAN03,Bangalore,6849,Charlie,A31164208,Savings,Online,ATM,MobileApp,Failed
+T245721,2025-05-07,04:29,BAN03,Bangalore,2553,Alice,A99365486,Savings,Online,NetBanking,ATM Booth,Success
+T405269,2025-05-07,13:22,BAN03,Bangalore,7501,Eva,A35797831,Current,Offline,IMPS,OnlinePortal,Failed
+T958277,2025-05-07,19:42,BAN03,Bangalore,7967,Bob,A19446606,Current,Offline,UPI,ATM Booth,Success
+T683906,2025-05-07,11:31,BAN03,Bangalore,9494,Charlie,A76911820,Savings,Online,NEFT,ATM Booth,Failed
+T485458,2025-05-07,19:00,BAN03,Bangalore,3070,Charlie,A36625910,Savings,Offline,ATM,ATM Booth,Failed
+T113468,2025-05-07,08:18,BAN03,Bangalore,2948,David,A88669608,Savings,Offline,NEFT,Kiosk,Success
+T137851,2025-05-07,11:29,BAN03,Bangalore,8719,Bob,A49272427,Savings,Offline,ATM,Kiosk,Success

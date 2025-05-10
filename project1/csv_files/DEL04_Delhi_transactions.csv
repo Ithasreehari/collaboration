@@ -1,0 +1,101 @@
+transaction_id,date,time,branch_id,branch_city,customer_id,customer_name,account_number,account_type,transaction_mode,channel,location,status
+T239127,2025-04-28,23:21,DEL04,Delhi,6420,David,A15852292,Current,Offline,NEFT,MobileApp,Failed
+T109911,2025-04-28,16:50,DEL04,Delhi,2594,John,A82803955,Savings,Offline,NEFT,Kiosk,Success
+T399449,2025-04-28,18:23,DEL04,Delhi,6412,Alice,A92925370,Savings,Offline,UPI,OnlinePortal,Failed
+T698309,2025-04-28,15:30,DEL04,Delhi,5597,Grace,A13285833,Savings,Offline,NetBanking,Kiosk,Failed
+T764821,2025-04-28,22:05,DEL04,Delhi,4581,Eva,A92199218,Savings,Offline,IMPS,Branch,Success
+T800949,2025-04-28,17:38,DEL04,Delhi,1402,Frank,A63818510,Current,Offline,NEFT,ATM Booth,Success
+T180041,2025-04-28,18:37,DEL04,Delhi,7525,David,A53423427,Savings,Online,UPI,ATM Booth,Success
+T901566,2025-04-28,22:41,DEL04,Delhi,2775,Bob,A20197474,Current,Online,UPI,Branch,Success
+T786357,2025-04-28,18:42,DEL04,Delhi,5984,Grace,A27597895,Savings,Offline,UPI,OnlinePortal,Failed
+T280879,2025-04-28,06:52,DEL04,Delhi,6592,Frank,A67435953,Current,Offline,IMPS,ATM Booth,Success
+T716801,2025-04-29,21:29,DEL04,Delhi,8370,Eva,A85315112,Current,Online,NEFT,ATM Booth,Success
+T552567,2025-04-29,13:20,DEL04,Delhi,1404,Bob,A54134396,Current,Online,UPI,OnlinePortal,Success
+T582954,2025-04-29,21:16,DEL04,Delhi,6598,Grace,A33326180,Savings,Offline,NEFT,MobileApp,Success
+T163677,2025-04-29,06:18,DEL04,Delhi,2109,David,A47680660,Current,Offline,NEFT,MobileApp,Success
+T926045,2025-04-29,16:21,DEL04,Delhi,4516,Charlie,A51996876,Current,Online,ATM,Kiosk,Failed
+T362592,2025-04-29,09:45,DEL04,Delhi,7475,John,A46907925,Savings,Offline,NetBanking,ATM Booth,Success
+T130593,2025-04-29,11:21,DEL04,Delhi,5955,Bob,A90337894,Current,Online,NetBanking,OnlinePortal,Failed
+T761879,2025-04-29,20:43,DEL04,Delhi,6922,Helen,A80813216,Current,Offline,IMPS,Kiosk,Failed
+T322922,2025-04-29,11:06,DEL04,Delhi,5531,John,A87325099,Current,Offline,NEFT,Kiosk,Success
+T120805,2025-04-29,05:12,DEL04,Delhi,6013,Helen,A35020315,Savings,Online,IMPS,ATM Booth,Failed
+T633044,2025-04-30,15:58,DEL04,Delhi,1450,David,A28461194,Savings,Offline,UPI,OnlinePortal,Failed
+T117125,2025-04-30,12:58,DEL04,Delhi,6881,Frank,A89518128,Current,Online,ATM,OnlinePortal,Failed
+T709155,2025-04-30,03:16,DEL04,Delhi,2321,Ivy,A62966176,Current,Online,NEFT,ATM Booth,Failed
+T589064,2025-04-30,21:56,DEL04,Delhi,3682,David,A43651631,Current,Offline,IMPS,ATM Booth,Success
+T794792,2025-04-30,00:33,DEL04,Delhi,1943,Ivy,A58601630,Savings,Online,NetBanking,Branch,Failed
+T167170,2025-04-30,13:48,DEL04,Delhi,5377,David,A56018072,Current,Offline,IMPS,Kiosk,Failed
+T344701,2025-04-30,09:03,DEL04,Delhi,1392,John,A95525341,Savings,Offline,NEFT,OnlinePortal,Success
+T144631,2025-04-30,20:01,DEL04,Delhi,9445,Bob,A51392746,Current,Online,IMPS,OnlinePortal,Success
+T878552,2025-04-30,18:34,DEL04,Delhi,2958,Bob,A23254460,Savings,Offline,IMPS,ATM Booth,Success
+T137673,2025-04-30,02:51,DEL04,Delhi,7507,Bob,A63170447,Current,Offline,IMPS,MobileApp,Failed
+T441007,2025-05-01,14:59,DEL04,Delhi,2217,Grace,A41867720,Savings,Offline,IMPS,OnlinePortal,Success
+T584934,2025-05-01,22:28,DEL04,Delhi,5980,Bob,A92436035,Current,Online,UPI,Kiosk,Failed
+T237604,2025-05-01,03:45,DEL04,Delhi,1239,Ivy,A95374632,Current,Online,NEFT,Kiosk,Failed
+T536285,2025-05-01,11:58,DEL04,Delhi,5141,Alice,A97876657,Current,Offline,ATM,Branch,Failed
+T596273,2025-05-01,19:56,DEL04,Delhi,8702,Alice,A96957764,Savings,Offline,NEFT,ATM Booth,Success
+T400619,2025-05-01,11:48,DEL04,Delhi,2431,Eva,A16467254,Current,Offline,UPI,Branch,Success
+T398004,2025-05-01,04:40,DEL04,Delhi,7041,Helen,A76944120,Savings,Offline,NEFT,MobileApp,Failed
+T930950,2025-05-01,09:15,DEL04,Delhi,3007,Ivy,A83814336,Current,Offline,ATM,MobileApp,Failed
+T395377,2025-05-01,10:57,DEL04,Delhi,4741,John,A86048497,Savings,Online,UPI,OnlinePortal,Failed
+T755480,2025-05-01,18:42,DEL04,Delhi,8710,Frank,A32659113,Current,Offline,NEFT,MobileApp,Success
+T878294,2025-05-02,15:22,DEL04,Delhi,4154,Ivy,A15548341,Savings,Online,UPI,Kiosk,Failed
+T713012,2025-05-02,21:40,DEL04,Delhi,9012,Alice,A61360467,Savings,Online,ATM,OnlinePortal,Success
+T488002,2025-05-02,02:06,DEL04,Delhi,8078,Alice,A71132039,Current,Offline,NetBanking,MobileApp,Success
+T538737,2025-05-02,09:26,DEL04,Delhi,5243,Helen,A11591000,Savings,Offline,UPI,Branch,Failed
+T420100,2025-05-02,16:41,DEL04,Delhi,6577,Ivy,A20585656,Current,Online,UPI,Branch,Failed
+T760379,2025-05-02,08:47,DEL04,Delhi,3018,Eva,A60315598,Current,Offline,UPI,MobileApp,Success
+T266056,2025-05-02,11:24,DEL04,Delhi,2122,David,A88578876,Current,Offline,NEFT,ATM Booth,Failed
+T591443,2025-05-02,12:03,DEL04,Delhi,9008,Eva,A67865764,Current,Offline,UPI,Branch,Failed
+T678314,2025-05-02,05:10,DEL04,Delhi,8218,Bob,A71500363,Savings,Online,IMPS,MobileApp,Success
+T408800,2025-05-02,04:46,DEL04,Delhi,3570,Grace,A29922841,Savings,Online,ATM,ATM Booth,Success
+T827074,2025-05-03,11:19,DEL04,Delhi,2230,John,A71231256,Savings,Online,NEFT,Kiosk,Success
+T831116,2025-05-03,12:15,DEL04,Delhi,5633,David,A54837653,Current,Offline,UPI,MobileApp,Failed
+T788556,2025-05-03,06:35,DEL04,Delhi,3934,Bob,A48498240,Current,Offline,IMPS,MobileApp,Failed
+T703857,2025-05-03,23:59,DEL04,Delhi,9005,Alice,A80208801,Current,Offline,UPI,Branch,Failed
+T697688,2025-05-03,21:06,DEL04,Delhi,3284,Ivy,A83657514,Savings,Offline,IMPS,ATM Booth,Failed
+T874892,2025-05-03,02:46,DEL04,Delhi,5948,Bob,A64268888,Savings,Online,IMPS,ATM Booth,Success
+T478165,2025-05-03,22:20,DEL04,Delhi,4131,Ivy,A13078092,Current,Offline,IMPS,Kiosk,Failed
+T853091,2025-05-03,05:46,DEL04,Delhi,3095,Ivy,A69600562,Savings,Online,ATM,MobileApp,Success
+T741425,2025-05-03,06:15,DEL04,Delhi,8728,Eva,A61379231,Current,Online,ATM,ATM Booth,Success
+T850343,2025-05-03,01:25,DEL04,Delhi,9804,Bob,A52102120,Savings,Offline,NetBanking,OnlinePortal,Success
+T122356,2025-05-04,02:26,DEL04,Delhi,9074,Grace,A21347737,Current,Offline,IMPS,OnlinePortal,Success
+T104682,2025-05-04,15:05,DEL04,Delhi,9361,Frank,A55145228,Savings,Online,NetBanking,Branch,Success
+T628384,2025-05-04,14:08,DEL04,Delhi,2482,David,A10383811,Current,Offline,IMPS,Kiosk,Failed
+T323057,2025-05-04,22:44,DEL04,Delhi,4270,David,A88145913,Savings,Offline,NEFT,Branch,Success
+T579598,2025-05-04,13:13,DEL04,Delhi,8722,Grace,A85708906,Savings,Online,UPI,ATM Booth,Success
+T238130,2025-05-04,15:08,DEL04,Delhi,1403,Frank,A94592360,Savings,Offline,ATM,OnlinePortal,Failed
+T515678,2025-05-04,17:15,DEL04,Delhi,4409,Helen,A54031967,Current,Offline,UPI,ATM Booth,Success
+T752552,2025-05-04,21:11,DEL04,Delhi,7938,Alice,A72539149,Savings,Online,NEFT,Kiosk,Success
+T662499,2025-05-04,10:48,DEL04,Delhi,4066,Grace,A64327164,Savings,Online,NEFT,Branch,Success
+T294833,2025-05-04,07:59,DEL04,Delhi,3788,Helen,A64336153,Current,Offline,ATM,MobileApp,Failed
+T419704,2025-05-05,20:55,DEL04,Delhi,7012,David,A99602668,Savings,Online,ATM,Branch,Failed
+T760611,2025-05-05,14:32,DEL04,Delhi,4351,John,A22912682,Current,Offline,ATM,Kiosk,Failed
+T271221,2025-05-05,06:21,DEL04,Delhi,5606,Charlie,A49935033,Savings,Offline,NetBanking,OnlinePortal,Success
+T152443,2025-05-05,12:56,DEL04,Delhi,8465,John,A88102129,Current,Online,ATM,Kiosk,Success
+T137124,2025-05-05,15:42,DEL04,Delhi,4237,David,A93667133,Current,Offline,NetBanking,MobileApp,Failed
+T909385,2025-05-05,11:15,DEL04,Delhi,4386,Ivy,A59515774,Current,Offline,NEFT,Branch,Failed
+T269138,2025-05-05,07:29,DEL04,Delhi,1503,Bob,A79066473,Savings,Offline,UPI,ATM Booth,Failed
+T478462,2025-05-05,04:28,DEL04,Delhi,6975,David,A42849570,Current,Offline,NEFT,ATM Booth,Failed
+T687050,2025-05-05,00:28,DEL04,Delhi,2851,Alice,A27510551,Savings,Offline,UPI,Branch,Failed
+T211847,2025-05-05,22:43,DEL04,Delhi,3909,Alice,A29413291,Current,Online,IMPS,Branch,Failed
+T304093,2025-05-06,02:50,DEL04,Delhi,6893,Ivy,A63435649,Savings,Offline,NetBanking,Branch,Success
+T182551,2025-05-06,12:53,DEL04,Delhi,5615,Ivy,A62496605,Current,Online,IMPS,Branch,Success
+T847674,2025-05-06,19:33,DEL04,Delhi,9579,Grace,A26643733,Current,Online,ATM,Kiosk,Success
+T768866,2025-05-06,11:13,DEL04,Delhi,9432,John,A71753697,Savings,Offline,IMPS,Branch,Failed
+T738211,2025-05-06,14:17,DEL04,Delhi,7627,Helen,A81703842,Current,Offline,NetBanking,OnlinePortal,Failed
+T659651,2025-05-06,07:50,DEL04,Delhi,5264,David,A79195173,Savings,Online,UPI,Kiosk,Failed
+T494234,2025-05-06,22:39,DEL04,Delhi,6756,Eva,A39024654,Current,Offline,NEFT,MobileApp,Success
+T457025,2025-05-06,08:23,DEL04,Delhi,4004,Alice,A78565059,Current,Online,IMPS,Branch,Failed
+T602943,2025-05-06,17:58,DEL04,Delhi,2437,John,A65133826,Current,Online,IMPS,MobileApp,Success
+T818847,2025-05-06,11:00,DEL04,Delhi,2308,John,A54123626,Current,Online,NetBanking,ATM Booth,Failed
+T905131,2025-05-07,03:38,DEL04,Delhi,2485,Alice,A70700620,Current,Online,NEFT,ATM Booth,Success
+T165495,2025-05-07,14:22,DEL04,Delhi,9169,Alice,A24500340,Current,Offline,IMPS,MobileApp,Success
+T728959,2025-05-07,14:03,DEL04,Delhi,9774,Helen,A54051407,Current,Online,UPI,Branch,Failed
+T405244,2025-05-07,07:52,DEL04,Delhi,8572,David,A42512257,Current,Online,NetBanking,OnlinePortal,Success
+T748593,2025-05-07,10:11,DEL04,Delhi,6706,Eva,A67281481,Savings,Online,UPI,MobileApp,Failed
+T124148,2025-05-07,05:38,DEL04,Delhi,9543,Helen,A50364698,Savings,Online,IMPS,Kiosk,Success
+T641674,2025-05-07,09:20,DEL04,Delhi,3732,Alice,A25053308,Savings,Offline,UPI,OnlinePortal,Failed
+T486600,2025-05-07,21:44,DEL04,Delhi,2708,Grace,A18736802,Current,Online,NEFT,MobileApp,Success
+T756124,2025-05-07,05:11,DEL04,Delhi,3062,Charlie,A22125330,Savings,Offline,NEFT,MobileApp,Failed
+T952492,2025-05-07,07:53,DEL04,Delhi,7060,John,A98028033,Savings,Offline,IMPS,Kiosk,Success

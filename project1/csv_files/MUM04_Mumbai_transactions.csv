@@ -1,0 +1,101 @@
+transaction_id,date,time,branch_id,branch_city,customer_id,customer_name,account_number,account_type,transaction_mode,channel,location,status
+T362552,2025-04-28,05:36,MUM04,Mumbai,7689,John,A92990779,Current,Online,ATM,ATM Booth,Success
+T114651,2025-04-28,15:12,MUM04,Mumbai,1643,Charlie,A61402225,Current,Online,IMPS,Branch,Success
+T835371,2025-04-28,14:50,MUM04,Mumbai,6037,Bob,A22237063,Savings,Online,NetBanking,Kiosk,Success
+T117122,2025-04-28,06:29,MUM04,Mumbai,8104,Alice,A18539616,Savings,Online,NetBanking,ATM Booth,Failed
+T222153,2025-04-28,10:16,MUM04,Mumbai,4493,Ivy,A12777022,Current,Offline,ATM,Kiosk,Failed
+T821893,2025-04-28,04:21,MUM04,Mumbai,2030,David,A82412402,Savings,Offline,NEFT,Kiosk,Success
+T452505,2025-04-28,20:23,MUM04,Mumbai,6882,Ivy,A11425116,Savings,Offline,IMPS,Branch,Failed
+T877788,2025-04-28,15:21,MUM04,Mumbai,2220,Helen,A73087852,Current,Online,NetBanking,MobileApp,Failed
+T535707,2025-04-28,03:20,MUM04,Mumbai,2569,John,A84966393,Savings,Online,UPI,ATM Booth,Success
+T359788,2025-04-28,01:57,MUM04,Mumbai,4106,John,A76085806,Savings,Online,NetBanking,Kiosk,Success
+T809339,2025-04-29,01:50,MUM04,Mumbai,4799,John,A18596918,Savings,Online,NetBanking,Branch,Failed
+T352245,2025-04-29,04:24,MUM04,Mumbai,9151,Bob,A47319644,Current,Online,IMPS,OnlinePortal,Success
+T165279,2025-04-29,10:53,MUM04,Mumbai,3816,Grace,A12337652,Savings,Online,UPI,MobileApp,Success
+T248869,2025-04-29,05:20,MUM04,Mumbai,4013,Bob,A69714725,Savings,Offline,ATM,Branch,Success
+T359713,2025-04-29,23:37,MUM04,Mumbai,5330,Ivy,A38470118,Savings,Online,IMPS,Kiosk,Failed
+T720582,2025-04-29,07:37,MUM04,Mumbai,8740,Grace,A99240186,Current,Online,ATM,OnlinePortal,Failed
+T413974,2025-04-29,03:15,MUM04,Mumbai,1544,Charlie,A89419263,Current,Offline,NEFT,ATM Booth,Success
+T171788,2025-04-29,03:58,MUM04,Mumbai,4710,Bob,A94102150,Current,Offline,ATM,OnlinePortal,Failed
+T496177,2025-04-29,09:13,MUM04,Mumbai,8566,Ivy,A23963005,Savings,Offline,IMPS,Kiosk,Success
+T361369,2025-04-29,12:59,MUM04,Mumbai,7302,Eva,A77744892,Current,Online,IMPS,MobileApp,Success
+T184880,2025-04-30,14:15,MUM04,Mumbai,4971,Frank,A38206358,Current,Offline,NEFT,Branch,Failed
+T487078,2025-04-30,10:46,MUM04,Mumbai,7437,Charlie,A22576921,Savings,Online,UPI,OnlinePortal,Success
+T912681,2025-04-30,12:34,MUM04,Mumbai,4710,Bob,A16797721,Savings,Offline,NetBanking,ATM Booth,Failed
+T879608,2025-04-30,19:58,MUM04,Mumbai,9904,Charlie,A78055552,Current,Offline,UPI,ATM Booth,Success
+T575766,2025-04-30,06:14,MUM04,Mumbai,7743,John,A71376015,Current,Online,NEFT,Kiosk,Success
+T620941,2025-04-30,17:58,MUM04,Mumbai,6474,John,A71013460,Savings,Online,ATM,OnlinePortal,Success
+T446448,2025-04-30,23:54,MUM04,Mumbai,8157,Charlie,A68521082,Current,Online,NetBanking,OnlinePortal,Success
+T345897,2025-04-30,04:55,MUM04,Mumbai,1347,David,A70553066,Current,Online,ATM,Branch,Failed
+T841307,2025-04-30,15:58,MUM04,Mumbai,5766,David,A57374528,Savings,Online,NEFT,MobileApp,Failed
+T767374,2025-04-30,22:09,MUM04,Mumbai,8513,Eva,A17671147,Current,Offline,IMPS,Branch,Failed
+T823001,2025-05-01,05:04,MUM04,Mumbai,4951,Helen,A77704921,Savings,Online,NetBanking,Kiosk,Success
+T151507,2025-05-01,06:27,MUM04,Mumbai,1468,Grace,A33648153,Current,Online,NetBanking,MobileApp,Failed
+T216151,2025-05-01,08:59,MUM04,Mumbai,7079,Alice,A28792756,Current,Offline,ATM,OnlinePortal,Failed
+T456377,2025-05-01,17:56,MUM04,Mumbai,2723,Ivy,A71302165,Savings,Offline,UPI,Branch,Success
+T660981,2025-05-01,14:27,MUM04,Mumbai,6088,David,A18157154,Savings,Offline,UPI,Branch,Success
+T137130,2025-05-01,19:53,MUM04,Mumbai,8383,Helen,A11219909,Current,Online,ATM,OnlinePortal,Success
+T659526,2025-05-01,03:16,MUM04,Mumbai,8345,Eva,A78437060,Savings,Online,IMPS,OnlinePortal,Success
+T419369,2025-05-01,06:32,MUM04,Mumbai,8654,Ivy,A61383305,Savings,Offline,ATM,ATM Booth,Failed
+T961764,2025-05-01,17:14,MUM04,Mumbai,1522,Charlie,A70356123,Savings,Offline,ATM,ATM Booth,Success
+T757327,2025-05-01,22:21,MUM04,Mumbai,8045,Frank,A39328844,Savings,Offline,UPI,ATM Booth,Failed
+T549389,2025-05-02,05:21,MUM04,Mumbai,1173,Bob,A55093157,Savings,Online,ATM,ATM Booth,Failed
+T144804,2025-05-02,04:35,MUM04,Mumbai,5278,Charlie,A45281531,Savings,Online,UPI,MobileApp,Success
+T301414,2025-05-02,05:49,MUM04,Mumbai,8021,Helen,A20193357,Current,Offline,ATM,OnlinePortal,Failed
+T277540,2025-05-02,06:04,MUM04,Mumbai,8263,Ivy,A33635223,Current,Online,IMPS,OnlinePortal,Failed
+T608697,2025-05-02,14:45,MUM04,Mumbai,5582,Alice,A84125587,Current,Online,NetBanking,Branch,Failed
+T114834,2025-05-02,06:38,MUM04,Mumbai,1232,Bob,A64146706,Savings,Offline,IMPS,Kiosk,Success
+T748420,2025-05-02,14:11,MUM04,Mumbai,8517,Grace,A66497254,Savings,Online,NEFT,ATM Booth,Failed
+T829529,2025-05-02,13:33,MUM04,Mumbai,4295,David,A86597186,Savings,Online,NEFT,OnlinePortal,Failed
+T399822,2025-05-02,17:09,MUM04,Mumbai,2938,David,A26720929,Current,Online,UPI,Branch,Success
+T806591,2025-05-02,23:50,MUM04,Mumbai,8105,Ivy,A66823057,Current,Offline,UPI,OnlinePortal,Failed
+T376205,2025-05-03,17:39,MUM04,Mumbai,6552,Bob,A18180581,Savings,Online,IMPS,Branch,Failed
+T181328,2025-05-03,19:52,MUM04,Mumbai,9268,Helen,A91726235,Current,Online,IMPS,OnlinePortal,Success
+T159645,2025-05-03,17:33,MUM04,Mumbai,5471,Ivy,A98196588,Current,Offline,NetBanking,OnlinePortal,Success
+T706266,2025-05-03,02:13,MUM04,Mumbai,7423,Ivy,A38196398,Current,Online,UPI,ATM Booth,Failed
+T496792,2025-05-03,09:58,MUM04,Mumbai,9137,Bob,A53536099,Savings,Online,IMPS,OnlinePortal,Success
+T949200,2025-05-03,10:39,MUM04,Mumbai,4657,Grace,A88004424,Savings,Offline,ATM,ATM Booth,Failed
+T107333,2025-05-03,13:16,MUM04,Mumbai,3556,Helen,A85750624,Savings,Online,ATM,OnlinePortal,Failed
+T948713,2025-05-03,22:56,MUM04,Mumbai,8169,Bob,A93313497,Current,Offline,UPI,ATM Booth,Failed
+T441612,2025-05-03,01:00,MUM04,Mumbai,2325,Bob,A27461330,Current,Online,UPI,ATM Booth,Failed
+T539250,2025-05-03,16:54,MUM04,Mumbai,8716,Grace,A94072916,Current,Online,NEFT,MobileApp,Success
+T609441,2025-05-04,08:07,MUM04,Mumbai,2473,Bob,A44086178,Current,Offline,ATM,Kiosk,Failed
+T388329,2025-05-04,06:51,MUM04,Mumbai,3272,Eva,A71080201,Current,Offline,NetBanking,Branch,Success
+T843578,2025-05-04,14:01,MUM04,Mumbai,6149,Charlie,A89096186,Current,Offline,UPI,ATM Booth,Success
+T511863,2025-05-04,18:03,MUM04,Mumbai,1159,David,A78822578,Savings,Offline,ATM,OnlinePortal,Success
+T765240,2025-05-04,02:10,MUM04,Mumbai,8007,Bob,A76793346,Savings,Online,UPI,Kiosk,Success
+T526000,2025-05-04,05:00,MUM04,Mumbai,6754,Charlie,A86323710,Savings,Online,ATM,Branch,Failed
+T662043,2025-05-04,08:39,MUM04,Mumbai,7776,John,A72130945,Current,Offline,UPI,MobileApp,Failed
+T827816,2025-05-04,17:02,MUM04,Mumbai,5113,Grace,A83451036,Savings,Offline,UPI,ATM Booth,Success
+T987878,2025-05-04,08:09,MUM04,Mumbai,6255,Grace,A25084105,Current,Offline,IMPS,Branch,Failed
+T326581,2025-05-04,00:53,MUM04,Mumbai,6764,Alice,A77506106,Savings,Offline,NEFT,Kiosk,Success
+T966563,2025-05-05,17:45,MUM04,Mumbai,7097,Grace,A57303562,Savings,Online,NEFT,Branch,Success
+T771035,2025-05-05,03:43,MUM04,Mumbai,6512,Bob,A95104167,Savings,Offline,ATM,Branch,Success
+T447595,2025-05-05,00:13,MUM04,Mumbai,1593,Grace,A29409541,Savings,Online,IMPS,MobileApp,Failed
+T299593,2025-05-05,04:07,MUM04,Mumbai,9309,Ivy,A85980244,Savings,Online,ATM,Kiosk,Failed
+T466030,2025-05-05,18:52,MUM04,Mumbai,8554,Ivy,A98084345,Current,Online,NetBanking,OnlinePortal,Success
+T270812,2025-05-05,04:56,MUM04,Mumbai,6086,Charlie,A31362398,Savings,Offline,NEFT,Branch,Success
+T525541,2025-05-05,11:13,MUM04,Mumbai,7705,Bob,A22341961,Current,Offline,NetBanking,ATM Booth,Success
+T826269,2025-05-05,00:42,MUM04,Mumbai,3412,Grace,A51967075,Current,Online,ATM,Branch,Failed
+T787513,2025-05-05,12:52,MUM04,Mumbai,8952,Frank,A90160430,Savings,Online,NetBanking,OnlinePortal,Failed
+T599475,2025-05-05,06:56,MUM04,Mumbai,5923,John,A57244509,Savings,Online,IMPS,ATM Booth,Failed
+T219195,2025-05-06,18:54,MUM04,Mumbai,3837,Charlie,A23007518,Savings,Online,IMPS,MobileApp,Success
+T827608,2025-05-06,03:14,MUM04,Mumbai,2462,Charlie,A61836775,Current,Online,ATM,OnlinePortal,Success
+T593905,2025-05-06,09:10,MUM04,Mumbai,9511,Bob,A64542033,Savings,Online,IMPS,OnlinePortal,Success
+T113923,2025-05-06,18:41,MUM04,Mumbai,3175,Ivy,A87152568,Savings,Online,NetBanking,ATM Booth,Success
+T415983,2025-05-06,02:20,MUM04,Mumbai,4863,David,A71987282,Current,Offline,IMPS,OnlinePortal,Failed
+T104173,2025-05-06,13:57,MUM04,Mumbai,6361,Grace,A36984770,Current,Offline,NEFT,Kiosk,Success
+T418976,2025-05-06,01:29,MUM04,Mumbai,4940,Frank,A70065282,Savings,Offline,ATM,ATM Booth,Failed
+T191239,2025-05-06,19:54,MUM04,Mumbai,1229,Charlie,A65615749,Current,Online,ATM,OnlinePortal,Success
+T250431,2025-05-06,04:37,MUM04,Mumbai,8156,John,A11842311,Savings,Offline,UPI,Branch,Failed
+T185962,2025-05-06,20:51,MUM04,Mumbai,8293,Helen,A24319009,Savings,Offline,IMPS,Kiosk,Success
+T750597,2025-05-07,23:57,MUM04,Mumbai,2198,Grace,A86268859,Savings,Online,IMPS,OnlinePortal,Success
+T434805,2025-05-07,06:34,MUM04,Mumbai,7480,Alice,A50180634,Current,Online,IMPS,Branch,Failed
+T415317,2025-05-07,05:29,MUM04,Mumbai,7018,Eva,A12080283,Savings,Online,NEFT,OnlinePortal,Success
+T385904,2025-05-07,06:17,MUM04,Mumbai,9118,Charlie,A65392460,Savings,Offline,ATM,MobileApp,Success
+T529887,2025-05-07,04:20,MUM04,Mumbai,1706,David,A67735299,Current,Offline,ATM,Branch,Failed
+T757992,2025-05-07,01:44,MUM04,Mumbai,9289,John,A10869779,Savings,Offline,NetBanking,Branch,Failed
+T672086,2025-05-07,11:14,MUM04,Mumbai,9231,David,A68815169,Current,Offline,NEFT,Branch,Failed
+T624105,2025-05-07,02:04,MUM04,Mumbai,3632,Charlie,A44549215,Savings,Online,NEFT,ATM Booth,Success
+T450515,2025-05-07,23:19,MUM04,Mumbai,7641,Bob,A59353466,Current,Offline,IMPS,MobileApp,Failed
+T778533,2025-05-07,11:50,MUM04,Mumbai,2214,Grace,A16616400,Savings,Offline,UPI,Branch,Success
